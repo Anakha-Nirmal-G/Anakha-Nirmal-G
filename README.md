@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Anakha-Nirmal
-- 👀 I’m interested in software test automation
-- 🌱 I’m currently learning playwright
-- 💞️ I’m looking to collaborate on playwright, selenium, API test automation projects
+- I want to excel in:
+- 🔧 Building robust test automation frameworks
+- 🌐 Validating APIs and web UIs across browsers
+- 🎯 Develop clean code and maintainable test suites
+- 🛠 Intergrate with CI/CD pipelines (GitHub Actions, Jenkins)
 - 📫 Email me @ nir.anakha@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: 
